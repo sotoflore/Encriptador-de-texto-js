@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador | Desencriptar de texto</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+   <main class="content">
+        <header class="header">
+            <img class="logo" src="./images/Logo.png" alt="logo del sitio web">
+        </header>
+        <section class="cuadro-content">
+            <textarea id="miTextarea" class="textarea" cols="30" rows="10" placeholder="Ingrese el texto aquí"></textarea>
+            <div class="grupo-boton">
+                <div class="content-aviso">
+                    <img src="./images/icon-exclamation.png" alt="icono de exclamación">
+                    <span class="texto-aviso">Solo letras minúsculas y sin acentos</span>
+                </div>
+                <div>
+                    <button onclick="realizarOperacion('encriptar')"  id="encriptar" class="boton-encriptar">Encriptar</button>
+                    <button onclick="realizarOperacion('desencriptar')"  id="desencriptar" class="boton-desencriptar">Desencriptar</button>
+                </div>
+            </div>
+        </section >
+        <section class="cuadro-informacion" id="resultadotext">
+            <img class="imagen-info" src="./images/Muñeco.png" alt="imagen muñeco">
+            <h2 class="titulo-info">Ningún mensaje fue encontrado</h2>
+            <p class="text-info">Ingrese el texto que desees encriptar o Desencriptar</p>
+        </section>
+   </main>
+</body>
+<script src="./app.js"></script>
+</html>
