@@ -3,6 +3,12 @@
 ## Alura Challenges ONE (Oracle Next Education)
 ¡Bienvenid@s!
 
+[Click aquí ver al Aplicación](https://sotoflore.github.io/Encriptador-de-texto/)
+
+![App Screenshot](https://i.postimg.cc/2jZw08xq/encriptador-de-texto-desktop.jpg)!
+![App Screenshot](https://i.postimg.cc/13cRBPLD/encriptador-de-texto-mobile.jpg)!
+![App Screenshot](https://i.postimg.cc/VkcLX5HY/encriptador-de-texto-table.jpg)!
+
 ### descripcion de la aplicación
 Aplicación que encripta textos, es una herramienta diseñada para transformar mensajes o información de texto en un formato ilegible o codificado, con el propósito de proteger la información.
 
