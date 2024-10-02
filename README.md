@@ -1,16 +1,10 @@
 # Encriptador de Texto
 
 ## Alura Challenges ONE (Oracle Next Education)
-¡Bienvenid@s!
-
-[Click aquí ver al Aplicación](https://sotoflore.github.io/Encriptador-de-texto/)
-
-![App Screenshot](https://i.postimg.cc/2jZw08xq/encriptador-de-texto-desktop.jpg)!
-![App Screenshot](https://i.postimg.cc/13cRBPLD/encriptador-de-texto-mobile.jpg)!
-![App Screenshot](https://i.postimg.cc/VkcLX5HY/encriptador-de-texto-table.jpg)!
-
 ### descripcion de la aplicación
 Aplicación que encripta textos, es una herramienta diseñada para transformar mensajes o información de texto en un formato ilegible o codificado, con el propósito de proteger la información.
+
+Link Website https://sotoflore.github.io/Encriptador-de-texto-js
 
 Esta aplicación utiliza un algoritmo específico para realizar la transformación y, posteriormente, permite descifrar el texto.
 
@@ -28,3 +22,12 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 ```diff
 Encripatado: "gato" => "gaitober"
 Desencripatado: "gaitober" => "gato"
+```
+# Desktop
+![App Screenshot](https://github.com/sotoflore/Encriptador-de-texto-js/blob/main/images/Macbook-Air-sotoflore.github.io.png)
+# Movil
+![App Screenshot](https://github.com/sotoflore/Encriptador-de-texto-js/blob/main/images/iPhone-13-PRO-sotoflore.github.io.png)
+
+# Tablet
+![App Screenshot](https://github.com/sotoflore/Encriptador-de-texto-js/blob/main/images/iPad-Air-4-sotoflore.github.io.png)
+
